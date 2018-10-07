@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>Payconiq assessment test</name>
-  <description>Payconiq assessment test</description>
+  <description>Payconiq assessment test by shabber saheb</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
